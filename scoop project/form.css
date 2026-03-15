@@ -1,0 +1,144 @@
+@font-face {
+    font-family: 'cursive';
+    src: url(/fonts/Molle-Italic.woff);
+}
+
+@font-face {
+    font-family: 'normal';
+    src: url(/fonts/ChelseaMarket-Regular.woff);
+}
+
+@font-face {
+    font-family: 'emoji';
+    src: url(/fonts/NotoEmoji-VariableFont_wght.woff);
+}
+
+.emoji {
+    font-family: 'emoji';
+    cursor: pointer;
+    transition: transform 0.3s ease-out;
+}
+
+.emoji:hover {
+    transform: translateY(-8px);
+}
+
+body {
+    background-color: #F2EADF;
+    font-family: 'normal';
+    color: #5A3E36;
+}
+
+h1, .scoop-footer {
+    font-family: 'cursive';
+}
+
+.navbar-brand {
+    font-family: 'cursive';
+    font-size: 30px;
+    color: #F2EADF;
+}
+
+.navbar-brand:hover {
+    color: #F2EADF;
+}
+
+.nav-link {
+    font-family: 'normal';
+    color: #D7A6A1;
+}
+
+.nav-link:hover {
+    color: #F2EADF;
+}
+
+.navbar {
+    background-color: #5A3E36;
+}
+
+.ordr {
+    color: #9CAF9A;
+}
+
+.ordr:hover {
+    color: #D7A6A1;
+}
+
+.first-o {
+    color: #9CAF9A;
+}
+
+.secnd-o {
+    color: #D7A6A1;
+}
+
+.add-order-btn, .place-order-btn {
+    background-color: transparent;
+    color: #5A3E36;
+    border: #5A3E36 solid 2px;
+    transform: rotate(0deg);
+    transition: transform 0.3s ease-out;
+}
+
+.add-order-btn:hover, .place-order-btn:hover {
+    background-color: #D7A6A1;
+    color: #F2EADF;
+    border: #5A3E36 solid 2px;
+    transform: rotate(1deg);
+}
+
+.bordered {
+    border-color: #5A3E36;
+}
+
+.form-control::placeholder {
+    color: #bd9c99;
+}
+
+.form-control {
+    color: #D7A6A1;
+}
+
+.textt {
+    color: #D7A6A1;
+}
+
+.texttt {
+    color: #5A3E36;
+}
+
+.form-control:focus {
+    color: #D7A6A1;
+}
+
+h2 {
+    color: #5A3E36;
+}
+
+.remove-btn {
+    color: #5A3E36;
+    border: #D7A6A1 solid 2px;
+}
+
+.remove-btn:hover {
+    color: #D7A6A1;
+    border: #5A3E36 solid 2px;
+}
+
+.footer {
+    background-color: #5A3E36;
+    color: #F2EADF;
+}
+
+.footer-text {
+    color: #9CAF9A;
+}
+
+.link {
+    text-decoration: none;
+    color: #D7A6A1;
+}
+
+.link:hover {
+    color: #F2EADF;
+}
