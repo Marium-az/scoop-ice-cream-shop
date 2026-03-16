@@ -26,7 +26,7 @@
 body {
     background-color: #F2EADF;
     font-family: 'normal';
-    color: #5A3E36;
+    color: #2E1B16;
 }
 
 h1, .scoop-footer {
@@ -45,7 +45,7 @@ h1, .scoop-footer {
 
 .nav-link {
     font-family: 'normal';
-    color: #D7A6A1;
+    color: #F58C96;
 }
 
 .nav-link:hover {
@@ -53,42 +53,42 @@ h1, .scoop-footer {
 }
 
 .navbar {
-    background-color: #5A3E36;
+    background-color: #2E1B16;
 }
 
 .ordr {
-    color: #9CAF9A;
+    color: #8DE0AC;
 }
 
 .ordr:hover {
-    color: #D7A6A1;
+    color: #F58C96;
 }
 
 .first-o {
-    color: #9CAF9A;
+    color: #8DE0AC;
 }
 
 .secnd-o {
-    color: #D7A6A1;
+    color: #F58C96;
 }
 
 .add-order-btn, .place-order-btn {
     background-color: transparent;
-    color: #5A3E36;
-    border: #5A3E36 solid 2px;
+    color: #2E1B16;
+    border: #2E1B16 solid 2px;
     transform: rotate(0deg);
     transition: transform 0.3s ease-out;
 }
 
 .add-order-btn:hover, .place-order-btn:hover {
-    background-color: #D7A6A1;
+    background-color: #F58C96;
     color: #F2EADF;
-    border: #5A3E36 solid 2px;
+    border: #2E1B16 solid 2px;
     transform: rotate(1deg);
 }
 
 .bordered {
-    border-color: #5A3E36;
+    border-color: #2E1B16;
 }
 
 .form-control::placeholder {
@@ -96,47 +96,47 @@ h1, .scoop-footer {
 }
 
 .form-control {
-    color: #D7A6A1;
+    color: #F58C96;
 }
 
 .textt {
-    color: #D7A6A1;
+    color: #F58C96;
 }
 
 .texttt {
-    color: #5A3E36;
+    color: #2E1B16;
 }
 
 .form-control:focus {
-    color: #D7A6A1;
+    color: #F58C96;
 }
 
 h2 {
-    color: #5A3E36;
+    color: #2E1B16;
 }
 
 .remove-btn {
-    color: #5A3E36;
-    border: #D7A6A1 solid 2px;
+    color: #2E1B16;
+    border: #F58C96 solid 2px;
 }
 
 .remove-btn:hover {
-    color: #D7A6A1;
-    border: #5A3E36 solid 2px;
+    color: #F58C96;
+    border: #2E1B16 solid 2px;
 }
 
 .footer {
-    background-color: #5A3E36;
+    background-color: #2E1B16;
     color: #F2EADF;
 }
 
 .footer-text {
-    color: #9CAF9A;
+    color: #8DE0AC;
 }
 
 .link {
     text-decoration: none;
-    color: #D7A6A1;
+    color: #F58C96;
 }
 
 .link:hover {
