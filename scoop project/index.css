@@ -26,7 +26,7 @@
 body {
     background-color: #F2EADF;
     font-family: 'normal';
-    color: #5A3E36;
+    color: #2E1B16;
 }
 
 h1, .scoop-footer {
@@ -45,7 +45,7 @@ h1, .scoop-footer {
 
 .nav-link {
     font-family: 'normal';
-    color: #D7A6A1;
+    color: #F58C96;
 }
 
 .nav-link:hover {
@@ -53,28 +53,28 @@ h1, .scoop-footer {
 }
 
 .navbar {
-    background-color: #5A3E36;
+    background-color: #2E1B16;
 }
 
 .ordr {
-    color: #9CAF9A;
+    color: #8DE0AC;
 }
 
 .ordr:hover {
-    color: #D7A6A1;
+    color: #F58C96;
 }
 
 .first-o {
-    color: #9CAF9A;
+    color: #8DE0AC;
 }
 
 .secnd-o {
-    color: #D7A6A1;
+    color: #F58C96;
 }
 
 .first-o-b {
-    color: #9CAF9A;
-    -webkit-text-stroke-color: #5A3E36;
+    color: #8DE0AC;
+    -webkit-text-stroke-color: #2E1B16;
     -webkit-text-stroke-width: 0.3px;
 }
 
@@ -87,29 +87,29 @@ h1, .scoop-footer {
 }
 
 .hero h1 {
-    color: #5A3E36;
+    color: #2E1B16;
     font-family: 'normal';
 }
 
 .order-btn {
-    background-color: #D7A6A1;
+    background-color: #F58C96;
     color: #F2EADF;
     transform: rotate(2deg);
     transition: transform 0.3s ease-out;
 }
 
 .order-btn:hover {
-    color: #5A3E36;
+    color: #2E1B16;
     background-color: #F2EADF;
     transform: rotate(0deg);
 }
 
 .about-section {
-    background-color: #9CAF9A;
+    background-color: #8DE0AC;
 }
 
 .about-h {
-    color: #5A3E36;
+    color: #2E1B16;
 }
 
 .ice-cream-shop {
@@ -124,7 +124,7 @@ h1, .scoop-footer {
 
 .review-card {
     font-style: italic;
-    border-left: 5px solid #D7A6A1;
+    border-left: 5px solid #F58C96;
     cursor: pointer;
     transition: transform 0.2s ease-out;
 }
@@ -134,11 +134,11 @@ h1, .scoop-footer {
 }
 
 .cta-section {
-    color: #5A3E36;
+    color: #2E1B16;
 }
 
 .cta-box {
-    background-color: #9CAF9A;
+    background-color: #8DE0AC;
     padding: 50px 0;
     border: transparent solid;
     border-radius: 3%;
@@ -146,23 +146,23 @@ h1, .scoop-footer {
 
 .more-btn {
     background-color: transparent;
-    color: #5A3E36;
-    border: #5A3E36 solid 2px;
+    color: #2E1B16;
+    border: #2E1B16 solid 2px;
     transform: rotate(2deg);
     transition: transform 0.3s ease-out;
 }
 
 .more-btn:hover {
     transform: rotate(0deg);
-    background-color: #D7A6A1;
-    border: #5A3E36 solid 2px;
+    background-color: #F58C96;
+    border: #2E1B16 solid 2px;
 }
 
 .flavor-card {
     transition: transform 0.3s ease;
     border-radius: 15px;
     overflow: hidden;
-    color: #5A3E36;
+    color: #2E1B16;
 }
 
 .flavor-card:hover {
@@ -170,22 +170,22 @@ h1, .scoop-footer {
 }
 
 .card-head {
-    color: #9CAF9A;
+    color: #8DE0AC;
 }
 
 .detail-btn {
     background-color: transparent;
-    color: #5A3E36;
-    border: #5A3E36 solid 2px;
+    color: #2E1B16;
+    border: #2E1B16 solid 2px;
     transform: rotate(2deg);
     transition: transform 0.3s ease-out;
 }
 
 .detail-btn:hover {
     transform: rotate(0deg);
-    background-color: #D7A6A1;
+    background-color: #F58C96;
     color: #F2EADF;
-    border: #5A3E36 solid 2px;
+    border: #2E1B16 solid 2px;
 }
 
 .card-img-top {
@@ -194,17 +194,17 @@ h1, .scoop-footer {
 }
 
 .footer {
-    background-color: #5A3E36;
+    background-color: #2E1B16;
     color: #F2EADF;
 }
 
 .footer-text {
-    color: #9CAF9A;
+    color: #8DE0AC;
 }
 
 .link {
     text-decoration: none;
-    color: #D7A6A1;
+    color: #F58C96;
 }
 
 .link:hover {
